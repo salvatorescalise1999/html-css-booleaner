@@ -43,3 +43,13 @@ main p span {
 .lista-non-ordinata-padding-left-dieci{
     padding-left: 10px;
 }
+
+.intestazione {
+    background-color: rgb(27, 115, 229);
+    color: white;
+    height: 100%;
+}
+
+.prima-riga-terza-riga{
+    background-color: aqua;
+} 
