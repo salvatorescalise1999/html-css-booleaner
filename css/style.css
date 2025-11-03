@@ -1,0 +1,12 @@
+header {
+
+    background-color: rgb(73, 157, 231);
+    background-image: url("../img/pattern.png");
+    background-size: 290px;
+    padding-top: 30px;
+   
+}
+
+#logo {
+    width: 150px;
+}
