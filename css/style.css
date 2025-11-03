@@ -35,3 +35,8 @@ main p span {
 .paragrafi-margini-zero {
    margin-top: 0px;
 }
+
+.sottolineato {
+   background-color: yellow;
+   color: black;
+}
