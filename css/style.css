@@ -10,3 +10,16 @@ header {
 #logo {
     width: 150px;
 }
+
+main p{
+    margin-bottom: 0px;
+}
+
+main p span {
+    color: rgb(73, 157, 231);
+}
+
+.piccola{
+    font-size: xx-small;
+    margin-top: 0px;
+}
